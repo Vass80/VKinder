@@ -1,6 +1,6 @@
 user_token = 'emQo6'
 comm_token = '1Q' 
-db_url_object = "postgresql+psycopg2://postgres:0@localhost/bot_users"
+db_url_object = "poers"
 
 offset = 0 #сдвиг
 line = range(0, 1000) # последовательность для перебора найденных пользователей
